@@ -1,0 +1,48 @@
+2024-08-12 16:30:00,047 [main] INFO CoverFoxTest - opening browser
+2024-08-12 16:30:11,040 [main] INFO CoverFoxTest - clicking on gender button
+2024-08-12 16:30:12,189 [main] INFO CoverFoxTest - clicking on next button
+2024-08-12 16:30:14,801 [main] WARN CoverFoxTest - enter age between 18-90 years
+2024-08-12 16:30:14,801 [main] INFO CoverFoxTest - handling age dropdown
+2024-08-12 16:30:14,933 [main] INFO CoverFoxTest - clicking on next button
+2024-08-12 16:30:16,216 [main] WARN CoverFoxTest - please enter valid pincode
+2024-08-12 16:30:16,217 [main] INFO CoverFoxTest - entering pincode
+2024-08-12 16:30:16,402 [main] WARN CoverFoxTest - please enter valid mobile number
+2024-08-12 16:30:16,402 [main] INFO CoverFoxTest - entering mobile number
+2024-08-12 16:30:16,525 [main] INFO CoverFoxTest - clicking on continue button
+2024-08-12 16:30:20,625 [main] INFO CoverFoxTest - validating banners
+2024-08-12 16:30:24,640 [main] INFO CoverFoxTest - validating presence of sort button
+2024-08-12 16:30:24,742 [main] INFO CoverFoxTest - closing browser
+2024-08-13 13:40:38,433 [main] INFO CoverFoxTest - opening browser
+2024-08-13 13:41:30,507 [main] INFO CoverFoxTest - clicking on gender button
+2024-08-13 13:41:31,670 [main] INFO CoverFoxTest - clicking on next button
+2024-08-13 13:41:34,306 [main] WARN CoverFoxTest - enter age between 18-90 years
+2024-08-13 13:41:34,306 [main] INFO CoverFoxTest - handling age dropdown
+2024-08-13 13:41:34,414 [main] INFO CoverFoxTest - clicking on next button
+2024-08-13 13:45:33,880 [main] INFO CoverFoxTest - opening browser
+2024-08-13 13:54:45,653 [main] INFO CoverFoxTest - opening browser
+2024-08-13 13:54:55,289 [main] INFO CoverFoxTest - clicking on gender button
+2024-08-13 13:54:56,406 [main] INFO CoverFoxTest - clicking on next button
+2024-08-13 13:54:58,751 [main] WARN CoverFoxTest - enter age between 18-90 years
+2024-08-13 13:54:58,751 [main] INFO CoverFoxTest - handling age dropdown
+2024-08-13 13:54:58,899 [main] INFO CoverFoxTest - clicking on next button
+2024-08-13 13:55:00,141 [main] WARN CoverFoxTest - please enter valid pincode
+2024-08-13 13:55:00,141 [main] INFO CoverFoxTest - entering pincode
+2024-08-13 13:55:00,423 [main] WARN CoverFoxTest - please enter valid mobile number
+2024-08-13 13:55:00,423 [main] INFO CoverFoxTest - entering mobile number
+2024-08-13 13:55:00,549 [main] INFO CoverFoxTest - clicking on continue button
+2024-08-13 13:55:04,676 [main] INFO CoverFoxTest - validating banners
+2024-08-13 13:55:08,697 [main] INFO CoverFoxTest - validating presence of sort button
+2024-08-13 13:55:08,760 [main] INFO CoverFoxTest - closing browser
+2024-08-13 13:59:28,278 [main] INFO CoverFoxTest - opening browser
+2024-08-13 13:59:37,164 [main] INFO CoverFoxTest - clicking on gender button
+2024-08-13 13:59:38,265 [main] INFO CoverFoxTest - clicking on next button
+2024-08-13 13:59:40,619 [main] WARN CoverFoxTest - enter age between 18-90 years
+2024-08-13 13:59:40,619 [main] INFO CoverFoxTest - handling age dropdown
+2024-08-13 13:59:40,698 [main] INFO CoverFoxTest - clicking on next button
+2024-08-13 13:59:42,017 [main] WARN CoverFoxTest - please enter valid pincode
+2024-08-13 13:59:42,017 [main] INFO CoverFoxTest - entering pincode
+2024-08-13 13:59:42,237 [main] WARN CoverFoxTest - please enter valid mobile number
+2024-08-13 13:59:42,237 [main] INFO CoverFoxTest - entering mobile number
+2024-08-13 13:59:42,331 [main] INFO CoverFoxTest - clicking on continue button
+2024-08-13 13:59:46,457 [main] INFO CoverFoxTest - validating banners
+2024-08-13 13:59:50,836 [main] INFO CoverFoxTest - closing browser

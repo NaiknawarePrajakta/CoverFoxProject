@@ -105,7 +105,7 @@ public class CoverFoxTC2 extends Base
   public void validatePresenceOfSortButton() throws InterruptedException, IOException
   {
 	  Thread.sleep(4000);
-	  Assert.fail();
+	 // Assert.fail();
 	  logger.info("validating presence of sort button");
 	  Assert.assertTrue(resultPage.sortPlanFilterIsDisplayed(), "Sort Plan filter is not displayed,TC is failed");
 	 

@@ -46,3 +46,31 @@
 2024-08-13 13:59:42,331 - CoverFoxTest -INFO - clicking on continue button
 2024-08-13 13:59:46,457 - CoverFoxTest -INFO - validating banners
 2024-08-13 13:59:50,836 - CoverFoxTest -INFO - closing browser
+2024-08-20 07:48:33,605 - CoverFoxTest -INFO - opening browser
+2024-08-20 07:48:47,209 - CoverFoxTest -INFO - clicking on gender button
+2024-08-20 07:48:48,360 - CoverFoxTest -INFO - clicking on next button
+2024-08-20 07:48:51,305 - CoverFoxTest -WARN - enter age between 18-90 years
+2024-08-20 07:48:51,309 - CoverFoxTest -INFO - handling age dropdown
+2024-08-20 07:48:51,462 - CoverFoxTest -INFO - clicking on next button
+2024-08-20 07:48:52,800 - CoverFoxTest -WARN - please enter valid pincode
+2024-08-20 07:48:52,800 - CoverFoxTest -INFO - entering pincode
+2024-08-20 07:48:53,060 - CoverFoxTest -WARN - please enter valid mobile number
+2024-08-20 07:48:53,067 - CoverFoxTest -INFO - entering mobile number
+2024-08-20 07:48:53,201 - CoverFoxTest -INFO - clicking on continue button
+2024-08-20 07:48:57,448 - CoverFoxTest -INFO - validating banners
+2024-08-20 07:49:01,800 - CoverFoxTest -INFO - closing browser
+2024-08-20 07:52:59,930 - CoverFoxTest -INFO - opening browser
+2024-08-20 09:11:44,232 - CoverFoxTest -INFO - opening browser
+2024-08-20 09:11:47,829 - CoverFoxTest -INFO - clicking on gender button
+2024-08-20 09:11:48,912 - CoverFoxTest -INFO - clicking on next button
+2024-08-20 09:11:50,602 - CoverFoxTest -WARN - enter age between 18-90 years
+2024-08-20 09:11:50,602 - CoverFoxTest -INFO - handling age dropdown
+2024-08-20 09:11:50,652 - CoverFoxTest -INFO - clicking on next button
+2024-08-20 09:11:51,766 - CoverFoxTest -WARN - please enter valid pincode
+2024-08-20 09:11:51,766 - CoverFoxTest -INFO - entering pincode
+2024-08-20 09:11:51,853 - CoverFoxTest -WARN - please enter valid mobile number
+2024-08-20 09:11:51,853 - CoverFoxTest -INFO - entering mobile number
+2024-08-20 09:11:51,920 - CoverFoxTest -INFO - clicking on continue button
+2024-08-20 09:11:55,961 - CoverFoxTest -INFO - validating banners
+2024-08-20 09:11:59,972 - CoverFoxTest -INFO - validating presence of sort button
+2024-08-20 09:11:59,988 - CoverFoxTest -INFO - closing browser
